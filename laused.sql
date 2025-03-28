@@ -104,59 +104,60 @@ select * from Person
 alter table Person
 add City nvarchar(25)
 
--- ?
+-- kuvamine kõik, kes elavad Gothamis
 select * from Person where City = 'Gotham'
 
 
--- kõik, kes ei ela Gothamis
+-- kuvamine kõik, kes ei ela Gothamis
 select * from Person where City <> 'Gotham'
 select * from Person where City != 'Gotham'
 
--- ?
+-- kuvamine kõik, kelle vanus on 100, 50 või 20
 select *from Person where Age = 100 or 
 Age = 50 or Age = 20
 select * from Person where Age in (100, 50, 20)
 
 
---- ?
+--- kuvamine kõik, kelle linn algab tähega 'N' või email sisaldab '@'
 select * from Person where City like 'n%'
 select * from Person where Email like '%@%'
 
--- ?
+-- kuvamine kõik, kelle email ei sisalda '@'
 select * from Person where Email not like '%@%'
 
 --- näitab, kelle on emailis ees ja peale @-märki
 -- ainult üks täht
 select * from Person where Email like '_@_.com'
 
---?
+--kuvamine kõik, kelle nimi ei alga tähtedega W, A või S
 select * from Person where Name like '[^WAS]%'
---- ?
+--- kuvamine kõik, kes elavad Gothamis või New Yorgis ja on vähemalt 40 aastat vanad
 select * from Person where (City = 'Gotham' or City = 'New York')
 and Age >= 40
 
 ---võtab kolm esimest rida
 select top 3 * from Person
 
---- ?
+--- võtab kolme esimest rida, kus on ainult Age ja Name veerud
 select * from Person
 select top 3 Age, Name from Person
 
---- ?
+--- võtab 50% esimestest ridadest tabelist Person
 select top 50 percent * from Person
---?
+-- võtab kõik andmed järjestatud vanuse järgi
 select * from Person order by cast(Age as int)
 select * from Person order by Age
 
---?
+-- võtab vanuse kogusumma tabelist Person
 select sum(cast(Age as int)) from Person
 
---?
+-- võtab madalaima vanuse tabelist Person
 select min(cast(Age as int)) from Person
 
---?
+-- võtab kõrgeima vanuse tabelist Person
 select max(cast(Age as int)) from Person
 
+-- võtab iga linna vanuste kogusumma tabelist Person
 select City, sum(cast(Age as int)) as TotalAge from Person group by City
 
 

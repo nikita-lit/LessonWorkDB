@@ -8,10 +8,11 @@
 -- db loomine
 create database Tarpv24
 
---?
+-- db kastutamine
 DRop DataBASE Tarpv24
 
---?
+-- tabeli Gender loomine
+USE Tarpv24
 create table Gender
 (
 Id int NOT NULL primary key,

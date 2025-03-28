@@ -60,7 +60,7 @@ select * from Person
 alter table Person
 drop constraint tblPerson_GenderId_FK
 
--- ?
+-- lisamine uus väärtus Gender tabelisse (Unknown)
 insert into Gender (Id, Gender)
 values (3, 'Unknown')
 -- lisame võõrvõtme uuesti
@@ -68,10 +68,11 @@ alter table Person
 add constraint DF_Person_GenderId
 default 3 for GenderId
 
-
+-- kuvatakse kõik andmed Person ja Gender tabelitest
 select * from Person
 select * from Gender
 
+-- sisatamine andmed Person tabelisse ilma GenderId määramata
 insert into Person (Id, Name, Email)
 values (8, 'Test', 'Test')
 

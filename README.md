@@ -1,5 +1,4 @@
 # LessonWorkDB
-Index loomine
 
 ![{06095CE0-1633-4CF6-BCF8-BE61C4E50038}](https://github.com/user-attachments/assets/394ebdb5-8704-469e-bed3-3860403a8517)
 
@@ -30,7 +29,7 @@ Index loomine
 # RTRIM / LTRIM
 ![{EECC41B3-F5DB-462E-9E4A-4C51C212C50B}](https://github.com/user-attachments/assets/461311d8-7398-4cee-bd39-9488e4470c39)
 
-# [Total Characters]
+# LEN
 ![{633E4486-7D94-4E29-ABF4-A5C88548B923}](https://github.com/user-attachments/assets/e42402ab-f4d5-40bb-bc28-831f02ceacdf)
 
 # RIGHT / LEFT

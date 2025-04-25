@@ -13,7 +13,9 @@ Index loomine
 # SP_HELPTEXT / SP_HELP / SP_DEPENDS
 ![{7A1B71FA-A6D5-44EB-8F8B-7A6DEC27F3F6}](https://github.com/user-attachments/assets/b016b337-d4e6-40d4-aa45-44c5c0812648)
 ![{74F85FEC-504B-4E2E-87BA-A9F13511EDBC}](https://github.com/user-attachments/assets/50dce739-f082-4413-9513-a006a3b17801)
-
+![{84A41D0A-B85C-4CC7-BD26-9CE6B8BF7A55}](https://github.com/user-attachments/assets/44ee95b4-f427-4410-80e6-83f27652ab5f)
+![{BB04A5BF-81D4-4351-A227-162395830647}](https://github.com/user-attachments/assets/6c214391-c0e0-4030-bc47-a56d724cb8c1)
+![{3DCCF71B-666D-4917-AD60-DD373E8E33F6}](https://github.com/user-attachments/assets/5d9da348-4eae-49b4-b066-017c0a57a1d3)
 
 # WITH ENCRYPTION
 ![Nimetu](https://github.com/user-attachments/assets/27047c1a-612f-4cc4-8749-0488ed7d88a4)
@@ -21,9 +23,6 @@ Index loomine
 # OUTPUT
 ![{FAF81186-39F2-451A-8986-90A8436E30FF}](https://github.com/user-attachments/assets/60511a92-4323-4548-aa2f-f929e2a154ce)
 ![{4D96B136-7A76-4287-9EB9-EF9A42BCB1EA}](https://github.com/user-attachments/assets/913d5136-7db8-4fdf-8a04-3677eeec220b)
-![{84A41D0A-B85C-4CC7-BD26-9CE6B8BF7A55}](https://github.com/user-attachments/assets/44ee95b4-f427-4410-80e6-83f27652ab5f)
-![{BB04A5BF-81D4-4351-A227-162395830647}](https://github.com/user-attachments/assets/6c214391-c0e0-4030-bc47-a56d724cb8c1)
-![{3DCCF71B-666D-4917-AD60-DD373E8E33F6}](https://github.com/user-attachments/assets/5d9da348-4eae-49b4-b066-017c0a57a1d3)
 
 # (VANA) SQL Serveriga seotud SQL laused
 

@@ -8,6 +8,7 @@ Index loomine
 ![{5CF1ED64-3B00-43D1-8220-725FF89BA27B}](https://github.com/user-attachments/assets/aef95d81-1848-444a-9396-065fdc863a70)
 ![{EB7F1599-403F-445D-BCBA-A0523801AC2E}](https://github.com/user-attachments/assets/9ede7e5b-7baa-4e2a-9cb4-c709b7fe5323)
 
+![{DAF32C21-F0EA-44FD-98AF-7C15EF9C703A}](https://github.com/user-attachments/assets/67de04a6-4cc4-44dc-9490-09d5ee060f78)
 
 
 

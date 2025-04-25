@@ -1,4 +1,11 @@
 # LessonWorkDB
+Index loomine
+
+![{06095CE0-1633-4CF6-BCF8-BE61C4E50038}](https://github.com/user-attachments/assets/394ebdb5-8704-469e-bed3-3860403a8517)
+
+
+
+
  SQL Serveriga seotud SQL laused
 
 ![image](https://github.com/user-attachments/assets/6698e3d9-7d95-4929-9640-210c2ccc6e84)

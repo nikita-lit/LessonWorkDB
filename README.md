@@ -10,6 +10,7 @@ Index loomine
 
 ![{DAF32C21-F0EA-44FD-98AF-7C15EF9C703A}](https://github.com/user-attachments/assets/67de04a6-4cc4-44dc-9490-09d5ee060f78)
 
+![{7A1B71FA-A6D5-44EB-8F8B-7A6DEC27F3F6}](https://github.com/user-attachments/assets/b016b337-d4e6-40d4-aa45-44c5c0812648)
 
 
  SQL Serveriga seotud SQL laused

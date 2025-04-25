@@ -10,10 +10,13 @@ Index loomine
 
 ![{DAF32C21-F0EA-44FD-98AF-7C15EF9C703A}](https://github.com/user-attachments/assets/67de04a6-4cc4-44dc-9490-09d5ee060f78)
 
+# SP_HELPTEXT
 ![{7A1B71FA-A6D5-44EB-8F8B-7A6DEC27F3F6}](https://github.com/user-attachments/assets/b016b337-d4e6-40d4-aa45-44c5c0812648)
 
+# WITH ENCRYPTION
+![Nimetu](https://github.com/user-attachments/assets/27047c1a-612f-4cc4-8749-0488ed7d88a4)
 
- SQL Serveriga seotud SQL laused
+# (VANA) SQL Serveriga seotud SQL laused
 
 ![image](https://github.com/user-attachments/assets/6698e3d9-7d95-4929-9640-210c2ccc6e84)
 ![image](https://github.com/user-attachments/assets/7a0d940f-4646-4784-bee4-f5933830a466)

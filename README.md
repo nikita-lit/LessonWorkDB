@@ -24,6 +24,28 @@ Index loomine
 ![{FAF81186-39F2-451A-8986-90A8436E30FF}](https://github.com/user-attachments/assets/60511a92-4323-4548-aa2f-f929e2a154ce)
 ![{4D96B136-7A76-4287-9EB9-EF9A42BCB1EA}](https://github.com/user-attachments/assets/913d5136-7db8-4fdf-8a04-3677eeec220b)
 
+# ASCII
+![{2D2A1E8E-C068-44E0-A3C1-D1521DFD0CD0}](https://github.com/user-attachments/assets/24242241-75d9-4371-978d-27fcfa200a92)
+
+# RTRIM / LTRIM
+![{EECC41B3-F5DB-462E-9E4A-4C51C212C50B}](https://github.com/user-attachments/assets/461311d8-7398-4cee-bd39-9488e4470c39)
+
+# [Total Characters]
+![{633E4486-7D94-4E29-ABF4-A5C88548B923}](https://github.com/user-attachments/assets/e42402ab-f4d5-40bb-bc28-831f02ceacdf)
+
+# RIGHT / LEFT
+![{4CFD9777-C17A-4F99-9BEA-CBAD9F201723}](https://github.com/user-attachments/assets/4d70df98-2b87-42a4-bd6a-73b44b36426a)
+
+# CHARINDEX / SUBSTRING
+![{F216F3C9-1D96-46F2-B557-A9DBBBA35610}](https://github.com/user-attachments/assets/0443aeba-5b14-44a7-966c-92415d83d929)
+
+# REPLICATE
+![{4F9F09B2-522F-4740-B578-F735B631D424}](https://github.com/user-attachments/assets/3c0babbe-235b-47b5-9175-23863e0cab7e)
+
+# SPACE
+![{38B0CD48-CB2B-4BFE-9561-472E1F1BBFBB}](https://github.com/user-attachments/assets/d53f420a-fd01-47b1-a34b-f91388f9040d)
+
+
 # (VANA) SQL Serveriga seotud SQL laused
 
 ![image](https://github.com/user-attachments/assets/6698e3d9-7d95-4929-9640-210c2ccc6e84)
